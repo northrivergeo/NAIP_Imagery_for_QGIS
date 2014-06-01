@@ -1,7 +1,7 @@
 NAIP_WMS
 ========
 
-These files were created from the data accesible here: http://gis.apfo.usda.gov/arcgis/rest/services/NAIP
+These files were created from the links accesible here: http://gis.apfo.usda.gov/arcgis/rest/services/NAIP
 
 These are WMS services for the current NAIP (National Agriculture Inventory Program). These files span the years from 2011 to 2013. They are flown Leaf on usually from late spring to late summer. 
 
