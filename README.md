@@ -23,7 +23,7 @@ Warning
 ========
 * The assumption is you will have the internet for these files to work. Granted I don't always have the internet so you might need to download the individual files by US County from http://datagateway.nrcs.usda.gov/
 * In the case of Government Shutdown these links will not work (which is so unbelievably stupid I hate even typing that). 
-* There is a chance I don't have some of the links wrokign properly - if so contact me (or correct and I'll merge your changes back in). 
+* There is a chance I don't have some of the links working properly - if so contact me (or correct and I'll merge your changes back in). 
 
 
 I just want to tell you both Good Luck. We're all counting on you!
