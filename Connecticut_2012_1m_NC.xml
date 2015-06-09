@@ -1,4 +1,0 @@
-<!DOCTYPE connections>
-<qgsWMSConnections version="1.0">
-    <wms ignoreGetMapURI="false" smoothPixmapTransform="false" dpiMode="7" password="" ignoreGetFeatureInfoURI="false" referer="" username="" url="http://gis.apfo.usda.gov/arcgis/services/NAIP/Connecticut_2012_1m_NC/ImageServer/WMSServer?" invertAxisOrientation="false" ignoreAxisOrientation="false" name="Connecticut_2012"/>
-</qgsWMSConnections>
