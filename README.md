@@ -27,4 +27,4 @@ Warning
 * There is a chance I don't have some of the links working properly - if so contact me (or correct and I'll merge your changes back in). 
 
 
-I just want to tell you AA Good Luck. We're counting on you!
+I just want to tell you Good Luck. We're All counting on you!
