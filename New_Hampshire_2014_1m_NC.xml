@@ -1,5 +1,5 @@
 <!DOCTYPE connections>
 <qgsWMSConnections version="1.0">
-    <wms ignoreGetMapURI="false" smoothPixmapTransform="false" dpiMode="7" password="" ignoreGetFeatureInfoURI="false" referer="" username="" url="http://gis.apfo.usda.gov/arcgis/services/NAIP/New_Hampshire_2014_1m_NC/ImageServer/WMSServer?" invertAxisOrientation="false" ignoreAxisOrientation="false" name="New_Hampshire_2014"/>
+    <wms ignoreGetMapURI="false" smoothPixmapTransform="false" dpiMode="7" password="" ignoreGetFeatureInfoURI="false" referer="" username="" url="http://gis.apfo.usda.gov/arcgis/services/NAIP/New_Hampshire_2014_1m/ImageServer/WMSServer?" invertAxisOrientation="false" ignoreAxisOrientation="false" name="New_Hampshire_2014"/>
 </qgsWMSConnections>
 
