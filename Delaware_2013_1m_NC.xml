@@ -1,4 +1,0 @@
-<!DOCTYPE connections>
-<qgsWMSConnections version="1.0">
-    <wms ignoreGetMapURI="false" smoothPixmapTransform="false" dpiMode="7" password="" ignoreGetFeatureInfoURI="false" referer="" username="" url="http://gis.apfo.usda.gov/arcgis/services/NAIP/Delaware_2013_1m_NC/ImageServer/WMSServer?" invertAxisOrientation="false" ignoreAxisOrientation="false" name="Delaware_2013"/>
-</qgsWMSConnections>
