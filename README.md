@@ -14,7 +14,7 @@ These files were create to be loaded into QGIS. Tested all the way through 2.12
 
 
 1. Open QGIS 2.x 
-2. Open the WMS/WTS Menu on the manage layers toolbar. 
+2. Open the WMS/WmTS Menu on the manage layers toolbar. 
 3. Click Load and select the XML you wish to load. 
 4. Select the connection to import 
 5. Connect
