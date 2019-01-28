@@ -1,4 +1,0 @@
-<!DOCTYPE connections>
-<qgsWMSConnections version="1.0">
-    <wms ignoreGetMapURI="false" smoothPixmapTransform="false" dpiMode="7" password="" ignoreGetFeatureInfoURI="false" referer="" username="" url="https://gis.apfo.usda.gov/arcgis/services/NAIP/Florida_2015_1m/ImageServer/WMSServer?" invertAxisOrientation="false" ignoreAxisOrientation="false" name="Florida_2015"/>
-</qgsWMSConnections>

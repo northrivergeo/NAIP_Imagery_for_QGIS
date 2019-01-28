@@ -1,4 +1,0 @@
-<!DOCTYPE connections>
-<qgsWMSConnections version="1.0">
-    <wms ignoreGetMapURI="false" smoothPixmapTransform="false" dpiMode="7" password="" ignoreGetFeatureInfoURI="false" referer="" username="" url="https://gis.apfo.usda.gov/arcgis/services/NAIP/Kentucky_2014_1m/ImageServer/WMSServer?" invertAxisOrientation="false" ignoreAxisOrientation="false" name="Kentucky_2014"/>
-</qgsWMSConnections>
