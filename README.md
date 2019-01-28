@@ -10,14 +10,21 @@ As more years become available I will be updating these files.
 
 Usage
 ========
-These files were create to be loaded into QGIS. Tested all the way through 2.12
-
+These files were create to be loaded into QGIS. Tested on 3.4  
 
 1. Open QGIS 3.x 
 2. Open the Data Source Manager. 
 3. Open the WMS/WMTS section. Click Load and select the XML you wish to load. 
 4. Select the connection to import 
 5. Connect
+
+Dates of NAIP. 
+Map Server Connection: https://gis.apfo.usda.gov/arcgis/rest/services/NAIP/NAIP_Image_Dates/MapServer
+
+1. Open QGI3.x 
+2. Open the Data Source Manager. 
+3. Open the ArcGIS Map Server and define a New Connect and copy the above connection into the URL text box. 
+4. Connect. Select the state or the year to see the metadata on the date captured. 
 
 Warning
 ========
