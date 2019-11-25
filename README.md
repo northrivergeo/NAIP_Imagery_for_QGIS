@@ -10,11 +10,11 @@ As more years become available I will be updating these files.
 
 Usage
 ========
-These files were create to be loaded into QGIS. Tested on 3.4  
+These files were create to be loaded into QGIS. Tested on 3.4 and 3.10 
 
 1. Open QGIS 3.x 
 2. Open the Data Source Manager. 
-3. Open the WMS/WMTS section. Click Load and select the XML you wish to load. 
+3. Open the WMS/WMTS section. Click Load and select the XML you wish to load. Load NAIP_Imagery_38.xml for any version of QGIS greater than 3.0 and less than 3.10. Load NAIP_Imagery_310.xml for QGIS 3.10.  
 4. Select the connection to import 
 5. Connect
 
