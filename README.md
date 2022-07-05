@@ -3,10 +3,7 @@ NAIP_WMS
 
 These files were created from the links accesible here: https://gis.apfo.usda.gov/arcgis/rest/services/NAIP/USDA_CONUS_PRIME/ImageServer
 
-These are WMS services for the current NAIP (National Agriculture Inventory Program). These files span the years from 2012 to 2015. They are flown Leaf on usually from late spring to late summer. 
-
-As more years become available I will be updating these files. 
-
+Read up on NAIP here: https://www.usgs.gov/centers/eros/science/usgs-eros-archive-aerial-photography-national-agriculture-imagery-program-naip
 
 Usage
 ========
