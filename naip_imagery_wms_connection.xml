@@ -1,0 +1,4 @@
+<!DOCTYPE connections>
+<qgsWMSConnections version="1.0">
+    <wms url="https://gis.apfo.usda.gov/arcgis/rest/services/NAIP/USDA_CONUS_PRIME/ImageServer/WMTS/1.0.0/WMTSCapabilities.xml" smoothPixmapTransform="false" ignoreGetMapURI="false" ignoreGetFeatureInfoURI="false" name="NAIP Imagery WMS Connection" username="" password="" ignoreAxisOrientation="false" invertAxisOrientation="false" dpiMode="7"/>
+</qgsWMSConnections>

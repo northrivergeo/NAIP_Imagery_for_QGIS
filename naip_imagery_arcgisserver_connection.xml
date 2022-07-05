@@ -1,0 +1,4 @@
+<!DOCTYPE connections>
+<qgsARCGISFEATURESERVERConnections version="1.0">
+    <arcgisfeatureserver url="https://gis.apfo.usda.gov/arcgis/rest/services/NAIP/USDA_CONUS_PRIME/ImageServer" name="NAIP ArcGIS Server Connection" username="" password="" authcfg=""/>
+</qgsARCGISFEATURESERVERConnections>
