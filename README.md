@@ -7,7 +7,7 @@ Read up on NAIP here: https://www.usgs.gov/centers/eros/science/usgs-eros-archiv
 
 Usage
 ========
-These files were create to be loaded into QGIS. Tested on 3.4 and 3.10 
+These files were create to be loaded into QGIS. Tested on 3.28
 
 1. Open QGIS 3.x 
 2. Open the Data Source Manager. 
